@@ -19,7 +19,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: hsl(220, 15%, 55%);
+    background: hsl(212, 45%, 89%);
     gap: 100px;
      
 }
@@ -59,7 +59,7 @@ body{
     font-size: 16px;
     color:hsl(220, 15%, 55%) ;
 }
-footer{
+/* footer{
     font-size: 13px;
     text-align: center;
     color: hsl(0, 0%, 100%);
@@ -67,4 +67,4 @@ footer{
 footer a{
     text-decoration: none;
     color: hsl(228, 45%, 44%);
-}
+} */

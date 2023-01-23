@@ -1,8 +1,9 @@
-Front End Mentor Challenge
-
 QR card Component
 
-[screenshot](./screenshot.png)
+[screenshot]![](./screenshot.jpg)
 
-Live Site URL (https://www.qrcard.netlify.app)
+- Frontend Mentor - [@newton-w](https://www.frontendmentor.io/profile/newton-w)
+- Twitter - [@newton_warui](https://www.twitter.com/newton_warui)
+
+- Live Site URL (https://www.newt-qrcode.netlify.app)
 
